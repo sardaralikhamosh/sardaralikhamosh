@@ -1,63 +1,87 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
-<h1 align="center">Hi 👋, Welcome to my portfolio!</h1>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sardar+Ali+Developer+from+Pakistan;CEO+to+Shinisa+Organics&font=SF%20Pro%20Disply&color=%23D62F79&center=true&width=380&height=50">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" alt="Decorative coding animation">
+  
+  <h1>Hi 👋, I'm Sardar Ali</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+from+Pakistan;Building+Scalable+Web+Solutions;MPhil+Researcher+@+QAU+Islamabad&font=SF%20Pro%20Display&color=%23D62F79&width=380&height=50" alt="Professional Title Animation">
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sardaralikhamosh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter">
+  </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sardaralikhamosh&label=Profile%20views&color=0e75b6&style=flat" alt="sardaralikhamosh" /> </p>
+  ---
 
-<br />
-💻 Full Stack Web Developer | Business Strategist | Entrepreneur
+  <h3>Full Stack Web Developer | Business Strategist | AI Enthusiast</h3>
+  
+  <img src="https://streak-stats.demolab.com/?user=sardaralikhamosh&theme=light" alt="GitHub Streak Stats">
 
-## About Me
+  ---
 
-I'm **Sardar Ali**, a Full Stack Web Developer with over 5 years of professional experience. I lead a multidisciplinary team of **SEO specialists**, **content writers**, and **digital strategists**. Whether you're a startup, entrepreneur, or business, I’m your **one-stop solution** for powerful, scalable, and search-optimized websites that convert.
+  <h2>About Me</h2>
+  
+  <p>
+    I'm <strong>Sardar Ali</strong>, a <strong>Full Stack Developer</strong> with <strong>5+ years</strong> of experience building high-performance web applications. As the founder of <a href="https://www.shinisa.com/"><strong>Shinisa Organic</strong></a> and a <strong>Computer Science Researcher at QAU</strong>, I bridge technical expertise with business acumen to deliver solutions that drive growth.
+  </p>
 
-As the **founder of [Shinisa Organic](https://www.shinisa.com/)** and a **Computer Science researcher at QAU**, I blend deep technical knowledge with business development insight to deliver websites that don't just look good — they perform.
+  <h3>Why Partner With Me?</h3>
+  
+  <ul style="display: inline-block; text-align: left;">
+    <li><strong>End-to-End Solutions</strong>: From MVP to enterprise-grade apps using <strong>Laravel, Spring Boot, WordPress, and Shopify</strong></li>
+    <li><strong>SEO & Performance</strong>: Websites optimized for <strong>speed, Google rankings, and conversions</strong> (94.3% of sites fail here)</li>
+    <li><strong>AI Integration</strong>: Custom solutions with <strong>NLP, Machine Learning, and computational modeling</strong></li>
+    <li><strong>Proven Leadership</strong>: Lead teams of <strong>SEO specialists, content strategists, and developers</strong></li>
+  </ul>
 
-## Why Work With Me?
+  <blockquote>
+    <em>"Your website is your digital storefront. I ensure it's fast, functional, and future-proof."</em>
+  </blockquote>
 
-> With over **1.5 billion websites** online, most fail due to poor design, zero SEO, and lack of content strategy. In fact, **94.3% of new websites receive no traffic at all**. That’s where I come in.
+  ---
 
-I specialize in building:
-- High-performance websites using **Laravel**, **Spring Boot**, **WordPress**, **Shopify**, **Magento**, and **Squarespace**
-- SEO-optimized platforms with fast load speeds, clean code, and compelling UI/UX
-- Custom e-commerce sites tailored for sales and scale
-- AI-integrated systems using **Machine Learning**, **NLP**, and **computational modeling**
+  <h2>My Expertise</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardaralikhamosh&count_private=true&langs_count=20&layout=compact&theme=light" alt="Top Languages">
 
-Your website is your brand’s digital hub. A poorly built one will cost you more in marketing and lost trust. I help you **maximize ROI** from day one.
+  <table align="center">
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>DevOps</th>
+      <th>Business</th>
+    </tr>
+    <tr>
+      <td>React.js</td>
+      <td>Laravel</td>
+      <td>Docker</td>
+      <td>SEO Strategy</td>
+    </tr>
+    <tr>
+      <td>Vue.js</td>
+      <td>Spring Boot</td>
+      <td>AWS/GCP</td>
+      <td>E-Commerce Scaling</td>
+    </tr>
+    <tr>
+      <td>Tailwind CSS</td>
+      <td>Node.js</td>
+      <td>CI/CD Pipelines</td>
+      <td>Growth Hacking</td>
+    </tr>
+  </table>
 
-## Secure Payment & Escrow Protection
+  ---
 
-**Worried about payment security?**  
-I work with trusted platforms offering **Escrow Services**. Here’s how it works:
-1. We agree on the project scope and price.
-2. You deposit the payment to a secure 3rd-party escrow.
-3. I complete and deliver your project.
-4. You approve the work — then funds are released to me.
+  <h2>Let's Build Something Remarkable</h2>
+  
+  <p>Ready to elevate your digital presence? Let's connect!</p>
+  
+  <p>
+    🌐 <strong>Portfolio</strong>: <a href="https://digicellinternational.codehuntspk.com/sardaralikhamosh/">sardaralikhamosh.com</a><br>
+    📧 <strong>Email</strong>: <a href="mailto:sardaralikhamosh@gmail.com">sardaralikhamosh@gmail.com</a><br>
+    🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/sardaralikhamosh/">Connect Here</a>
+  </p>
 
-This ensures full transparency and mutual trust throughout the process.
-
-## Contact Me for Your Next Web Project
-
-I’d love to hear about your idea or business. Let’s create something impactful together.
-
-🌐 Visit: [sardaralikhamosh.com](https://digicellinternational.codehuntspk.com/sardaralikhamosh/)
-
-📧 Email: [sardaralikhamosh@gmail.com](mailto:sardaralikhamosh@gmail.com)  
-
-📱 [LinkedIn](https://www.linkedin.com/in/sardaralikhamosh/)
-
----
-
-_“Build smart. Grow fast. Stand out.”_
-
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sardaralikhamosh" alt="sardaralikhamosh" /></a> </p> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sardaralikhamosh" /> -->
-
-<img src="https://streak-stats.demolab.com/?user=sardaralikhamosh&theme=light" alt="sardaralikhamosh" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardaralikhamosh&count_private=true&langs_count=20&layout=compact&theme=light" alt="sardaralikhamosh" />
+  <p>
+    <em>"Build smart. Grow fast. Stand out."</em>
+  </p>
+</div>
