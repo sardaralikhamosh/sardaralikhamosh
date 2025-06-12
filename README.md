@@ -78,7 +78,9 @@
   <p>
     🌐 <strong>Portfolio</strong>: <a href="https://digicellinternational.codehuntspk.com/sardaralikhamosh/">sardaralikhamosh.com</a><br>
     📧 <strong>Email</strong>: <a href="mailto:sardaralikhamosh@gmail.com">sardaralikhamosh@gmail.com</a><br>
-    🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/sardaralikhamosh/">Connect Here</a>
+    🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/sardaralikhamosh/">Connect Here</a><br>
+    🔗 <strong>x.com/sardar_khamosh</strong>: <a href="https://x.com/sardar_khamosh">Connect Here</a>
+   
   </p>
 
   <p>
