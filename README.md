@@ -87,3 +87,6 @@
     <em>"Build smart. Grow fast. Stand out."</em>
   </p>
 </div>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardaralikhamosh&theme=vue" />
+</p>
