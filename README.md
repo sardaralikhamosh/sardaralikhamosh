@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" alt="Decorative coding animation">
   
-  <h1>Hi 👋, I'm Sardar Ali</h1>
+  <h1>Hi 👋, I'm Sardar Ali Khamosh</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+from+Pakistan;Building+Scalable+Web+Solutions;MPhil+Researcher+@+QAU+Islamabad&font=SF%20Pro%20Display&color=%23D62F79&width=380&height=50" alt="Professional Title Animation">
   
@@ -20,7 +20,7 @@
   <h2>About Me</h2>
   
   <p>
-    I'm <strong>Sardar Ali</strong>, a <strong>Full Stack Developer</strong> with <strong>5+ years</strong> of experience building high-performance web applications. As the founder of <a href="https://www.shinisa.com/"><strong>Shinisa Organic</strong></a> and a <strong>Computer Science Researcher at QAU</strong>, I bridge technical expertise with business acumen to deliver solutions that drive growth.
+    I'm <strong>Sardar Ali Khamosh</strong>, a <strong>Full Stack Developer</strong> with <strong>5+ years</strong> of experience building high-performance web applications. As the founder of <a href="https://www.shinisa.com/"><strong>Shinisa Organic</strong></a> and a <strong>Computer Science Researcher at QAU</strong>, I bridge technical expertise with business acumen to deliver solutions that drive growth.
   </p>
 
   <h3>Why Partner With Me?</h3>
